@@ -37,6 +37,9 @@ You can shutdown and turn up ur Internet connection with commands sudo ip link s
 
 In this exercise we had to examine surfing-secure.pcap and describe what kind of capture it is. When clicking on "Statistics" menu on the "Endpoints" tab you can see two IP addresses in the capture, meaning there is traffic between two devices
 
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/d250c376-5b5d-47c5-ae70-71e6ae4e703b" />
+
 There is over 283 packets that are TCP, TLS and DNS packets. In "Statistics" menu under "Capture file Properties" you can see the time span, speed and packet size 
 
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/146b68b2-d764-4469-9130-4449a8f1f408" />
 
