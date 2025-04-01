@@ -16,4 +16,6 @@ x) Wireshark article contains introduction on how to install wireshark and do ou
 
 a) Debian installed. 
 
-b) 
+b) You can shutdown and turn up ur Internet connection with commands sudo ip link set enp0s3 down / sudo ip link set enp0s3 up
+
+c) 
