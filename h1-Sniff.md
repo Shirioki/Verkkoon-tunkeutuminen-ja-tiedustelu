@@ -59,9 +59,24 @@ we can see that the user have visited www.terokarvinen.com and google.com
 
 <img width="1080" alt="image" src="https://github.com/user-attachments/assets/506e5ee5-f14d-45db-9f17-3996612ebfcc" />
 
+## i) Analyysi
 
 
 
+## References
+
+Karvinen 2025: Verkkoon tunkeutuminen ja tiedustelu
+https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+
+Wireshark Q&A: Filter to display DNS queries https://osqa-ask.wireshark.org/questions/55754/whata-a-display-filter-that-matches-dns-queries-for-a-particular-host-name/
+
+Karvinen 2025: Wireshark - Getting Started https://terokarvinen.com/wireshark-getting-started/
+
+Karvinen 2025: Network Interface Names on Linux https://terokarvinen.com/network-interface-linux/
+
+Karvinen 2024: Install Debian on Virtualbox - Updated 2024 https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
+Wikipedia: Internet protocol suite https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 
 
