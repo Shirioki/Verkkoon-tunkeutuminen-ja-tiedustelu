@@ -49,6 +49,10 @@ There is over 283 packets that are TCP, TLS and DNS packets. In "Statistics" men
 
 We can see that under Ethernet II the Network card is Realtek
 
-## h) 
+## h) Millä weppipalvelimella käyttäjä on surffaillut?
+
+
+
+
 
 
