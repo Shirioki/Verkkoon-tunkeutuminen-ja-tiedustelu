@@ -23,3 +23,4 @@ c) <img width="842" alt="Screenshot 2025-04-01 at 18 02 27" src="https://github.
 d)  - Internet layer can be seen from source and destination 
     - Application layer is DNS
     - Transport layer is UDP
+    - 
