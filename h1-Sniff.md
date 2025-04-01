@@ -45,5 +45,10 @@ There is over 283 packets that are TCP, TLS and DNS packets. In "Statistics" men
 
 ## g) Minkä merkkinen verkkokortti käyttäjällä on?
 
+<img width="748" alt="image" src="https://github.com/user-attachments/assets/5636230d-30a0-4997-9a02-3fe6d8e9731e" />
+
+We can see that under Ethernet II the Network card is Realtek
+
+## h) 
 
 
