@@ -43,3 +43,7 @@ There is over 283 packets that are TCP, TLS and DNS packets. In "Statistics" men
 
 <img width="696" alt="image" src="https://github.com/user-attachments/assets/146b68b2-d764-4469-9130-4449a8f1f408" />
 
+## g) Minkä merkkinen verkkokortti käyttäjällä on?
+
+
+
