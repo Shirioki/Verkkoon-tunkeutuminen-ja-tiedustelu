@@ -60,7 +60,8 @@ we can see that the user have visited www.terokarvinen.com and google.com
 <img width="1080" alt="image" src="https://github.com/user-attachments/assets/506e5ee5-f14d-45db-9f17-3996612ebfcc" />
 
 ## i) Analyysi
-
+I opened Wireshark and chose enp0s3 as my network.
+<img width="1091" alt="image" src="https://github.com/user-attachments/assets/cc2554a2-f8e1-4fb4-884f-15cfc03e5ebd" />
 
 
 ## References
