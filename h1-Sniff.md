@@ -60,7 +60,14 @@ we can see that the user have visited www.terokarvinen.com and google.com
 <img width="1080" alt="image" src="https://github.com/user-attachments/assets/506e5ee5-f14d-45db-9f17-3996612ebfcc" />
 
 ## i) Analyysi
-I opened Wireshark and chose enp0s3 as my network.
+I opened Wireshark and chose enp0s3 as my network. We can see in my screenshot there are TCP- TLS-packets in IPv6 Network
+
+- Protocols are TCP and TLSv1.3
+- Source Port is 43000 and Destination port 443 (HTTPS)
+- We can also see Source IP and Destination IP from the chart
+  
+What happens here is that my computer (source port 4300) wants to connect to a server (port 443). It sends a packet to the server and server send a packet back and the connection is created. After this the TLSv1.3 protocol start encrypting. My computer sends a "Client Hello" message, with supported encryption methods and the server replies back "Server Hello, Change Cipher Spec" message. After this all communication becomes encrypted.
+
 <img width="1091" alt="image" src="https://github.com/user-attachments/assets/cc2554a2-f8e1-4fb4-884f-15cfc03e5ebd" />
 
 
