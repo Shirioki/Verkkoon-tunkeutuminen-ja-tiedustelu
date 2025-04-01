@@ -51,6 +51,15 @@ We can see that under Ethernet II the Network card is Realtek
 
 ## h) Millä weppipalvelimella käyttäjä on surffaillut?
 
+With the filter command
+
+dns.qry.name 
+
+we can see that the user have visited www.terokarvinen.com and google.com
+
+<img width="1080" alt="image" src="https://github.com/user-attachments/assets/506e5ee5-f14d-45db-9f17-3996612ebfcc" />
+
+
 
 
 
