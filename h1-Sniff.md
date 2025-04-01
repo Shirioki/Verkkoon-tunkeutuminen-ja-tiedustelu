@@ -23,7 +23,7 @@ c) <img width="842" alt="Screenshot 2025-04-01 at 18 02 27" src="https://github.
 d) <img width="822" alt="image" src="https://github.com/user-attachments/assets/554b8319-a41b-40c7-8918-383348953349" />
 
 
-- Internet layer can be seen from source and destination 
-    - Application layer is DNS
-    - Transport layer is UDP
-    - 
+- Internet layer is IPv6 (Source & Destination IPs)
+- Application layer is HTTP (Port 80)
+- Transport layer is TCP (Ports (51738 → 80))
+- Link Layer is Ethernet II that can be seen in MAC address
