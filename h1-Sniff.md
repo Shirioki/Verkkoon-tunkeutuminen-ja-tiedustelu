@@ -20,7 +20,9 @@ b) You can shutdown and turn up ur Internet connection with commands sudo ip lin
 
 c) <img width="842" alt="Screenshot 2025-04-01 at 18 02 27" src="https://github.com/user-attachments/assets/a1e1d533-4446-4f56-8c9b-1437c49c0534" />
 
-d) <img width="822" alt="image" src="https://github.com/user-attachments/assets/554b8319-a41b-40c7-8918-383348953349" />
+d) ## Oikeesti TCP/IP.
+
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/554b8319-a41b-40c7-8918-383348953349" />
 
 
 - Internet layer is IPv6 (Source & Destination IPs)
