@@ -20,3 +20,10 @@ Tämä malli auttaa hahmottamaan näiden osien väliset suhteet ja ymmärtämä�
 
 ## a) Apache log.
 
+Asensin apachen komennolla "sudo apt install apache2". Tämän jälkeen avasin selaimen ja menin http://192.168.101.113 tämä avasi apachen oletussivun, joka kertoo että Apache toimii.
+
+<img width="1092" alt="image" src="https://github.com/user-attachments/assets/7f83c70a-f0c6-4e15-ba77-517dfc9698c5" />
+
+## b) Nmapped.
+
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/27038504-974b-494c-9872-67312c555842" />
