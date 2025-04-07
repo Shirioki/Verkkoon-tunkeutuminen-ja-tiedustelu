@@ -27,3 +27,15 @@ Asensin apachen komennolla "sudo apt install apache2". Tämän jälkeen avasin s
 ## b) Nmapped.
 
 <img width="735" alt="image" src="https://github.com/user-attachments/assets/27038504-974b-494c-9872-67312c555842" />
+
+- 80/tcp open http Apache httpd 2.4.62 ((Debian)) : Tämä tarkoittaa, että portti 80/tcp on auki ja käytössä on apache web palvelin versio 2.4.62
+
+## c) Skriptit
+
+Skriptejä jotka olivat automaattisesti päällä, kun käytin "-A" parametriä ovat 
+
+- http-title
+- http-robots
+- http-server-header
+
+## d) 
