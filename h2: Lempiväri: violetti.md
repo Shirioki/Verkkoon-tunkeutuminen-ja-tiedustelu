@@ -82,6 +82,9 @@ nmap:n user-agentin voi vaihtaa lisäämällä --script-args http.useragent=""
 
 <img width="1254" alt="image" src="https://github.com/user-attachments/assets/d6b87e05-56f0-4345-b5a3-bd6d27c577b6" />
 
+<img width="1248" alt="image" src="https://github.com/user-attachments/assets/c9f0adbf-eb82-46de-8637-6e911eb5227e" />
+
+
 
 ## Lähteet
 
