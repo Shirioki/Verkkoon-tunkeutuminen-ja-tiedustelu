@@ -69,17 +69,29 @@ Kaappauksessa näkyy, että Nmap lähettää HTTP-pyyntöjä ja käyttää User-
 
 ## f) Net grep. 
 
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/168b69d3-474e-4c1e-8d0f-efc0691b7683" />
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/b9b2cc1f-f6be-4e70-9ce8-f00d85e31096" />
+
+Tämän jälkeen suoritin nmap skannauksen
+
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/f06f3df7-df75-4155-acaf-e38c5a5194de" />
+
 
 ## g) Agentti.
 
+nmap:n user-agentin voi vaihtaa lisäämällä --script-args http.useragent=""
+
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/d6b87e05-56f0-4345-b5a3-bd6d27c577b6" />
 
 
+## Lähteet
 
+Karvinen Tero, Verkkoon tunkeutuminen ja tiedustelu: https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
 
+Apache, Log Files: https://httpd.apache.org/docs/2.4/en/logs.html
 
+What is the Diamond Model: https://kravensecurity.com/diamond-model-analysis/
 
-
+The Pyramid of Pain: http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html
 
 
 
