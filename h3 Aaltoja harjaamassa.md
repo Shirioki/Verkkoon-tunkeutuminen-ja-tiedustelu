@@ -31,6 +31,9 @@ I opened terminal and with wrote a command sudo apt-get install rtl-433
 
 After installing rtl_433 i tried to open the software with command rtl_433 - h
 
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/927359ad-50c2-4b32-b2ed-64411a21517c" />
+
+It works!
 
 ## c) Automaattinen analyysi
 
