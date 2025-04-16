@@ -42,3 +42,25 @@ To start the next exercise first i downloaded the file that was given in the exe
 <img width="871" alt="image" src="https://github.com/user-attachments/assets/00da4682-b2df-46f1-a014-c73720afe72f" />
 
 The ids that i found from the signals were 8785315 and models i found was KlikAanKlikUit-switch, Proove-security and nexa security. In the sample file devices receive signals or sends signals in channel 3. 
+
+
+## d) Too complex 16?
+
+First i downloaded the file and after this i tried to open the file like in my other exercise and this gave me and error. In hints we have to rename our file so it works. So what i did was just change .complex16s to .cs8 and this worked for me.
+
+<img width="1034" alt="image" src="https://github.com/user-attachments/assets/23b111e4-9651-4582-b659-f41075404e79" />
+
+sample looks quite similar to the other one we first opened.
+
+## e) Ultimate
+
+Next lets install URH. I started the exercise with running commands. 
+
+$ sudo apt-get update 
+$ sudo apt-get -y install pipx
+$ pipx install urh
+$ pipx ensurepath
+- close terminal and open again
+$ urh
+
+<img width="1032" alt="image" src="https://github.com/user-attachments/assets/8031aca6-4c70-45ff-ba96-e8b4dd02dcbd" />
