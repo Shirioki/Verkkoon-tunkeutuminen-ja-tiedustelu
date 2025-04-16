@@ -54,7 +54,7 @@ sample looks quite similar to the other one we first opened.
 
 ## e) Ultimate
 
-Next lets install URH. I started the exercise with running commands. 
+Next lets install URH. I started the exercise with running commands. (these commands were in the hint corner)
 
 $ sudo apt-get update 
 $ sudo apt-get -y install pipx
@@ -64,3 +64,10 @@ $ pipx ensurepath
 $ urh
 
 <img width="1032" alt="image" src="https://github.com/user-attachments/assets/8031aca6-4c70-45ff-ba96-e8b4dd02dcbd" />
+
+<img width="1091" alt="image" src="https://github.com/user-attachments/assets/4130494f-13a4-40f6-b2d1-0424aceb6b86" />
+
+It works Yay!
+
+## Sources
+
