@@ -71,3 +71,13 @@ It works Yay!
 
 ## Sources
 
+Terokarvinen 2025: Verkkoon tunkeutuminen ja tiedustelu https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+
+Hubacek 2019: Universal Radio Hacker SDR Tutorial on 433 MHz radio plugs https://youtu.be/sbqMqb6FVMY?t=199
+
+Cornelius 2022: Decode 433.92 MHz weather station data https://www.onetransistor.eu/2022/01/decode-433mhz-ask-signal.html
+
+WebSDR: http://websdr.org/ 
+
+WebSDR Brazil: http://appr.org.br:8901/
+
