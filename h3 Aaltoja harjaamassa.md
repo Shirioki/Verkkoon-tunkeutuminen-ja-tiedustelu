@@ -37,3 +37,8 @@ It works!
 
 ## c) Automaattinen analyysi
 
+To start the next exercise first i downloaded the file that was given in the exercise. After this with command rtl_433 Converted_433.92M_2000k.cs8 the file should open in our software.
+
+<img width="871" alt="image" src="https://github.com/user-attachments/assets/00da4682-b2df-46f1-a014-c73720afe72f" />
+
+The ids that i found from the signals were 8785315 and models i found was KlikAanKlikUit-switch, Proove-security and nexa security. In the sample file devices receive signals or sends signals in channel 3. 
