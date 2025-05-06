@@ -13,3 +13,12 @@ Lastly i powered it up and it asked me for login so i typed mininet/mininet.
 Seems to work!
 ![image](https://github.com/user-attachments/assets/8c38f0eb-6f03-41f5-b68d-78c7efbe6fb9)
 
+## References
+
+VMWare download: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+
+Larin luennot moodle: https://hhmoodle.haaga-helia.fi/course/view.php?id=42566
+
+Evilginx. 2025. Getting Started: https://help.evilginx.com/category/getting-started
+
+kgretzky. 21.1.2025. evilginx2. GitHub: https://github.com/kgretzky/evilginx2.
