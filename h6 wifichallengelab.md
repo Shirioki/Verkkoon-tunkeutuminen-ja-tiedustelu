@@ -18,9 +18,16 @@ In the user folder i noticed there is 2 .sh files "restartWiFi.sh" and "updateWi
 
 ![image](https://github.com/user-attachments/assets/91c85e1a-3176-4cc4-a7c5-9173038596a5)
 
-Now my WifiChallengeLab-containers are in running/started status which mean the environment is ready to use!
+Now my WifiChallengeLab-containers are in running/started status which means the environment is ready to use!
+
+After this I realized all of this was pointless lol. 
+
+I registered into WifiChallenge page that was linked in moodle then started doing the exercises.
+
+
 
 ## References
 
 Changelog: WiFiChallengeLab v2.1: https://github.com/r4ulcl/WiFiChallengeLab-docker/releases
 WiFiChallengeLab-docker: https://github.com/r4ulcl/WiFiChallengeLab-docker
+wifi_db: https://github.com/r4ulcl/wifi_db
