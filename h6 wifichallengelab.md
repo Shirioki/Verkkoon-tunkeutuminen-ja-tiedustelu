@@ -1,5 +1,7 @@
 #H6 wifichallengelab
 
+## 1. 
+
 I started the homework by downloading WiFiChallengeLabv2.1-VMware.zip.001, .002 and .003. After this i had to extract the these three files in order to get VMware virtual disk file. I used 7zip to do this. This created
 a folder with these items inside of it. 
 ![image](https://github.com/user-attachments/assets/f55ea6bf-7e29-4fce-9916-6cf7ddefb8a9)
@@ -26,9 +28,24 @@ I registered into WifiChallenge page that was linked in moodle then started doin
 
 ![image](https://github.com/user-attachments/assets/5db6d74f-015d-42b7-abd0-b88f77e660f3)
 
+## 2. 
+
+What did i learn from this? The exercised I did was related to reconnaisance. To put it more specifically, I captured traffic, found hidden network devices, and identified them. I learned useful commands during the exercises. Additionally, practicing with these tools gave me a deeper understanding of network security and how attackers might operate.
+
+What suprised me was how easy and automated many of the attacks are to execute.
+
+## 3.
+
+After completing the exercises, my view on WLAN security became more critical. I realized that encryption methods are critical. Also networks can be vulnerable due to misconfigured routers and mac addresses aren't reliable identifiers.
+
+Now i plan on strengthening my home networks's security and use stronger passwords and encryption.The exercises demonstrated how easily information can be gathered, highlighting the need for better protection.
+
+
 
 ## References
 
 Changelog: WiFiChallengeLab v2.1: https://github.com/r4ulcl/WiFiChallengeLab-docker/releases
+
 WiFiChallengeLab-docker: https://github.com/r4ulcl/WiFiChallengeLab-docker
+
 wifi_db: https://github.com/r4ulcl/wifi_db
