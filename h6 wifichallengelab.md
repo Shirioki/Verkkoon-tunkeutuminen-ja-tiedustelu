@@ -24,6 +24,7 @@ After this I realized all of this was pointless lol.
 
 I registered into WifiChallenge page that was linked in moodle then started doing the exercises.
 
+![image](https://github.com/user-attachments/assets/5db6d74f-015d-42b7-abd0-b88f77e660f3)
 
 
 ## References
