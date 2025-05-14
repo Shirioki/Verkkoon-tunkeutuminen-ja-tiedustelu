@@ -30,9 +30,9 @@ I registered into WifiChallenge page that was linked in moodle then started doin
 
 ## 2. 
 
-What did i learn from this? The exercised I did was related to reconnaisance. To put it more specifically, I captured traffic, found hidden network devices, and identified them. I learned useful commands during the exercises. Additionally, practicing with these tools gave me a deeper understanding of network security and how attackers might operate.
+The exercises i did was about reconnaissance. I captured network traffic, found hidden devices on the network, and figured out what they were. I also learned some helpful commands and got to practice using tools that are often used in real-world situations. Doing this gave me a better understanding of how network security works and how attackers might try to gather information.
 
-What suprised me was how easy and automated many of the attacks are to execute.
+What surprised me the most was how easy and automated a lot of these attacks are. It really doesn’t take much for someone to start scanning and collecting data
 
 ## 3.
 
